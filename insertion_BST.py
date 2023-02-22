@@ -1,4 +1,4 @@
-#Implement an insertion using recursion and iterative insertion of node in Binary Tree
+#Implement an insertion using recursion and iterative insertion of node in Binary Search Tree
 
 class Node:
     def __init__(self,value):
